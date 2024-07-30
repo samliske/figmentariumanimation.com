@@ -1,0 +1,1 @@
+This is a website containing the music and visual art of my music project (Figmentarium Animation). While I have written the code for a "chatbot secretary" of the page, my next step is to implement this bot on the front-end side.
